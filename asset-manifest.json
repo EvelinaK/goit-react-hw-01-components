@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/EvelinaK/goit-react-hw-01-components.git/static/css/main.7a9bce3c.chunk.css",
-    "main.js": "/EvelinaK/goit-react-hw-01-components.git/static/js/main.c399839a.chunk.js",
-    "main.js.map": "/EvelinaK/goit-react-hw-01-components.git/static/js/main.c399839a.chunk.js.map",
-    "runtime-main.js": "/EvelinaK/goit-react-hw-01-components.git/static/js/runtime-main.d5b16577.js",
-    "runtime-main.js.map": "/EvelinaK/goit-react-hw-01-components.git/static/js/runtime-main.d5b16577.js.map",
-    "static/css/2.de71bbd8.chunk.css": "/EvelinaK/goit-react-hw-01-components.git/static/css/2.de71bbd8.chunk.css",
-    "static/js/2.1314ae39.chunk.js": "/EvelinaK/goit-react-hw-01-components.git/static/js/2.1314ae39.chunk.js",
-    "static/js/2.1314ae39.chunk.js.map": "/EvelinaK/goit-react-hw-01-components.git/static/js/2.1314ae39.chunk.js.map",
-    "index.html": "/EvelinaK/goit-react-hw-01-components.git/index.html",
-    "static/css/2.de71bbd8.chunk.css.map": "/EvelinaK/goit-react-hw-01-components.git/static/css/2.de71bbd8.chunk.css.map",
-    "static/css/main.7a9bce3c.chunk.css.map": "/EvelinaK/goit-react-hw-01-components.git/static/css/main.7a9bce3c.chunk.css.map",
-    "static/js/2.1314ae39.chunk.js.LICENSE.txt": "/EvelinaK/goit-react-hw-01-components.git/static/js/2.1314ae39.chunk.js.LICENSE.txt"
+    "main.css": "/EvelinaK/goit-react-hw-01-components/static/css/main.7a9bce3c.chunk.css",
+    "main.js": "/EvelinaK/goit-react-hw-01-components/static/js/main.c399839a.chunk.js",
+    "main.js.map": "/EvelinaK/goit-react-hw-01-components/static/js/main.c399839a.chunk.js.map",
+    "runtime-main.js": "/EvelinaK/goit-react-hw-01-components/static/js/runtime-main.2eed2a85.js",
+    "runtime-main.js.map": "/EvelinaK/goit-react-hw-01-components/static/js/runtime-main.2eed2a85.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/EvelinaK/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.1314ae39.chunk.js": "/EvelinaK/goit-react-hw-01-components/static/js/2.1314ae39.chunk.js",
+    "static/js/2.1314ae39.chunk.js.map": "/EvelinaK/goit-react-hw-01-components/static/js/2.1314ae39.chunk.js.map",
+    "index.html": "/EvelinaK/goit-react-hw-01-components/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/EvelinaK/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.7a9bce3c.chunk.css.map": "/EvelinaK/goit-react-hw-01-components/static/css/main.7a9bce3c.chunk.css.map",
+    "static/js/2.1314ae39.chunk.js.LICENSE.txt": "/EvelinaK/goit-react-hw-01-components/static/js/2.1314ae39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5b16577.js",
+    "static/js/runtime-main.2eed2a85.js",
     "static/css/2.de71bbd8.chunk.css",
     "static/js/2.1314ae39.chunk.js",
     "static/css/main.7a9bce3c.chunk.css",
